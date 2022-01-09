@@ -1,0 +1,8 @@
+Recent activity
+When you take actions across GitHub, we’ll provide links to that activity here.
+
+Working with a team?
+GitHub is built for collaboration. Set up an organization to improve the way your team works together, and get access to more features.
+
+Discover interesting projects and people to populate your personal news feed.
+Your news feed helps you keep up with recent activity on repositories you watch or star and people you follow.
