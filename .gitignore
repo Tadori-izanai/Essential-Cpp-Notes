@@ -1,0 +1,14 @@
+*
+
+!*.md
+!*.cpp
+!*.txt
+!*.h
+!*.map
+!*.sort
+!*.png
+!*.jpg
+
+!*/
+
+!.gitignore
